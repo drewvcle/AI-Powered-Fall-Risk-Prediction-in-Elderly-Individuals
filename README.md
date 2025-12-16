@@ -4,8 +4,8 @@ This capstone project is currently ongoing. Estimated completion date is March 2
 
 This repository contains the implementation of _AI Powered Fall Risk Prediction in Elderly Individuals_. This is accomplished by using a wearable inertial measurement unit (IMU). This project emphasizes early fall risk prediction of 3-5 seconds by identifying pre-fall motions prior to an actual fall event.
 
-This implementation utilizes **LIMU-BERT**, a deep learning model specifically designed for inertial time-series data. MobiFall dataset was utilized to train the deep learning model.
-Other datasets that are worth mentioning are SisFall and FARSEEING, and both were used in the initial phase of testing.
+This implementation utilizes **LIMU-BERT**, a deep learning model specifically designed for inertial time-series data. **MobiFall** dataset was utilized to train the deep learning model.
+Other datasets that are worth mentioning are **SisFall** and **FARSEEING**, and both were used in the initial phase of testing.
 
 > **Project Status**: WIP.
 
@@ -46,9 +46,4 @@ Thus, the problem definition is broken down into four components:
 | PRE_FALL | Pre-fall motion patterns indicating elevated fall risk |
 | FALL     | Actual fall event |
 
----
 
-## How to Run (Preprocessing)
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
