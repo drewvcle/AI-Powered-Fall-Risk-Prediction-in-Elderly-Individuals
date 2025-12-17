@@ -13,8 +13,9 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 ---
 ## Figures from Milestone Report
 
-[![](https://cdn.discordapp.com/attachments/771051131035189253/1450944209346494494/image18.png?ex=69446098&is=69430f18&hm=b4210747346f09726e3bf3906a365c183ef5e934dde986b92cd54dee994a66fb&)]()
+
 <p align="center">
+  [![](https://cdn.discordapp.com/attachments/771051131035189253/1450944209346494494/image18.png?ex=69446098&is=69430f18&hm=b4210747346f09726e3bf3906a365c183ef5e934dde986b92cd54dee994a66fb&)]()
   <sub><b>Figure 1.0.</b> Window Diagram of IMU signals.</sub>
 </p>
 
@@ -78,6 +79,7 @@ Thus, the problem definition is broken down into four components:
 | NON      | Normal activity |
 | PRE_FALL | Pre-fall motion patterns indicating elevated fall risk |
 | FALL     | Actual fall event |
+
 
 
 
