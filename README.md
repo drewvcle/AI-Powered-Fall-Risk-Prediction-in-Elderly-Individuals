@@ -16,16 +16,10 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 <p align="center">
   <img
     src="https://cdn.discordapp.com/attachments/771051131035189253/1450944209346494494/image18.png?ex=69446098&is=69430f18&hm=b4210747346f09726e3bf3906a365c183ef5e934dde986b92cd54dee994a66fb&"
-    alt="Figure description"
+    alt="<b>Figure 1.0.</b> Window Diagram of IMU signals."
     width="600"
   />
 </p>
-
-<p align="center">
-  <sub><b>Figure 1.0.</b> Window Diagram of IMU signals.</sub>
-</p>
-
-
 
 [![](https://cdn.discordapp.com/attachments/771051131035189253/1450944209690300507/image14.png?ex=69446098&is=69430f18&hm=cef29e38b4d736ef710d72066e319e84b829c18a1301209e916352f17f951062&)]()
 <sub>**Figure 1.1.** RAW IMU Signals (Accelerometer and Gyroscope).</sub>
@@ -86,6 +80,7 @@ Thus, the problem definition is broken down into four components:
 | NON      | Normal activity |
 | PRE_FALL | Pre-fall motion patterns indicating elevated fall risk |
 | FALL     | Actual fall event |
+
 
 
 
