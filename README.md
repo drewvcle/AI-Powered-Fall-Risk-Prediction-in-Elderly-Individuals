@@ -76,7 +76,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
   
 </p>
 <p align="center">
-  <sub><b>Figure 3.0.</b> Proposed Login Screen..</sub>
+  <sub><b>Figure 3.0.</b> Proposed Login Screen.</sub>
 </p>
 
 <p align="center">
@@ -141,6 +141,8 @@ Thus, the problem definition is broken down into four components:
 | PRE_FALL | Pre-fall motion patterns indicating elevated fall risk |
 | FALL     | Actual fall event |
 
+## Authors
+Andrew Le, Sugen Jeyakumar, Zoravar Multani, and Joaquin Kataoka
 
 
 
