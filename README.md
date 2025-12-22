@@ -26,7 +26,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450944209690300507/image14.png?ex=69446098&is=69430f18&hm=cef29e38b4d736ef710d72066e319e84b829c18a1301209e916352f17f951062&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig1.1.png"
     width="400"
   />
   
@@ -37,7 +37,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943988294090792/image23.png?ex=69446064&is=69430ee4&hm=19bf36c8bd99c7c5fea9695745ded2cf75729f349fac93e0f7b0cad8ac949776&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig1.2.png"
     width="400"
   />
   
@@ -48,7 +48,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943987564417146/image25.png?ex=69446063&is=69430ee3&hm=05bd8a14c3db21bd88ddaf4f7fffd0636e9710fb7ddb372d142d746fb512ee83&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig2.0.png"
     width="400"
   />
   
@@ -59,7 +59,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943987983843458/image24.png?ex=69446063&is=69430ee3&hm=132acb38f1716fb238410082fea94771be3f4cde146c1364b47c042b5b804441&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig2.1.png"
     width="400"
   />
   
@@ -70,7 +70,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943986847186955/image26.png?ex=69446063&is=69430ee3&hm=4765268c14451aa37e5912538fdcae4d2794d6cc91a9c9229bf382cc8f67fcb2&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig3.0.png"
     width="400"
   />
   
@@ -81,19 +81,15 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943988969504900/image19.png?ex=69446064&is=69430ee4&hm=395a63250cc668d33408b500e726b8d66c74c0e1daa88be5a723f49498cc7951&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig3.1.1.png"
     width="200"
   />
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943987149045864/image27.png?ex=69446063&is=69430ee3&hm=fcde9924143e6184e6a066187ded168dc5385bd9c265cf76f2bd6cc065b6bba0&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig3.1.2.png"
     width="200"
   />
   <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943988616925248/image20.png?ex=69446064&is=69430ee4&hm=f0e1ff95e37a68944ae6d577c1f5a3b8ebb0c34dc16c85acc7ee0d740a59e3ce&"
-    width="200"
-  />
-  <img
-    src="https://cdn.discordapp.com/attachments/771051131035189253/1450943988969504900/image19.png?ex=69446064&is=69430ee4&hm=395a63250cc668d33408b500e726b8d66c74c0e1daa88be5a723f49498cc7951&"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig3.1.3.png"
     width="200"
   />
   
@@ -143,6 +139,7 @@ Thus, the problem definition is broken down into four components:
 
 ## Authors
 Andrew Le, Sugen Jeyakumar, Zoravar Multani, and Joaquin Kataoka
+
 
 
 
