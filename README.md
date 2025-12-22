@@ -15,7 +15,7 @@ Other datasets worth mentioning are **SisFall** and **FARSEEING**, both used in 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/assets/fig1.0.png"
+    src="https://raw.githubusercontent.com/drewvcle/AI-Powered-Fall-Risk-Prediction-in-Elderly-Individuals/main/Assets/fig1.0.png"
     width="400"
   />
   
@@ -143,6 +143,7 @@ Thus, the problem definition is broken down into four components:
 
 ## Authors
 Andrew Le, Sugen Jeyakumar, Zoravar Multani, and Joaquin Kataoka
+
 
 
 
